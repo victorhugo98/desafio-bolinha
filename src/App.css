@@ -1,0 +1,25 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: #ccc;
+}
+*{
+  margin: 0;
+  padding: 0  ;
+}
+
+.div{
+  width: 100%;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+
+}
+.div button{
+  padding: 1rem 2rem;
+  background-color: lightblue;
+  border: none;
+  margin-top: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+}
